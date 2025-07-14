@@ -1,7 +1,7 @@
 package main
 
-import "app/dsa"
+import "app/module"
 
 func main() {
-	dsa.RunWorkSpace()
+	module.RunWorkSpace()
 }
